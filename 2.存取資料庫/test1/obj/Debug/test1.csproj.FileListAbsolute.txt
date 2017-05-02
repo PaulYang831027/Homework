@@ -1,0 +1,33 @@
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\test1\test1\bin\Debug\test1.exe.config
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\test1\test1\bin\Debug\test1.exe
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\test1\test1\bin\Debug\test1.pdb
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\test1\test1\obj\Debug\test1.exe
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\test1\test1\obj\Debug\test1.pdb
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\test1\test1\test1\bin\Debug\test1.exe.config
+C:\Users\user\Desktop\test1\test1\test1\obj\Debug\test1.exe
+C:\Users\user\Desktop\test1\test1\test1\obj\Debug\test1.pdb
+C:\Users\user\Desktop\test1\test1\test1\bin\Debug\test1.exe
+C:\Users\user\Desktop\test1\test1\test1\bin\Debug\test1.pdb
+C:\Users\user\Desktop\test1\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\test0331\test1\test1\bin\Debug\test1.exe.config
+C:\Users\user\Desktop\test0331\test1\test1\obj\Debug\test1.exe
+C:\Users\user\Desktop\test0331\test1\test1\obj\Debug\test1.pdb
+F:\GITHUB\homework\test1\test1\bin\Debug\test1.exe.config
+F:\GITHUB\homework\test1\test1\bin\Debug\test1.exe
+F:\GITHUB\homework\test1\test1\bin\Debug\test1.pdb
+F:\GITHUB\homework\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+F:\GITHUB\homework\test1\test1\obj\Debug\test1.exe
+F:\GITHUB\homework\test1\test1\obj\Debug\test1.pdb
+F:\GITHUB\homework\test1\test1\bin\Debug\AppData\Reservoir.ldf
+F:\GITHUB\homework\test1\test1\bin\Debug\AppData\Reservoir.mdf
+F:\GITHUB\homework\2.存取資料庫\test1\bin\Debug\test1.exe.config
+F:\GITHUB\homework\2.存取資料庫\test1\obj\Debug\test1.exe
+F:\GITHUB\homework\2.存取資料庫\test1\obj\Debug\test1.pdb
+F:\GITHUB\homework\2.存取資料庫\test1\bin\Debug\AppData\Reservoir.ldf
+F:\GITHUB\homework\2.存取資料庫\test1\bin\Debug\AppData\Reservoir.mdf
+F:\GITHUB\homework\2.存取資料庫\test1\bin\Debug\test1.exe
+F:\GITHUB\homework\2.存取資料庫\test1\bin\Debug\test1.pdb
+F:\GITHUB\homework\2.存取資料庫\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+F:\GITHUB\homework\2.存取資料庫\test1\bin\Debug\bin\Debug\AppData\Reservoir.ldf
+F:\GITHUB\homework\2.存取資料庫\test1\bin\Debug\bin\Debug\AppData\Reservoir.mdf
